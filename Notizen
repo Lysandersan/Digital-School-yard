@@ -15,20 +15,25 @@ Devices:
 18,89 |5x Moisture Sensor (  https://www.domadoo.fr/de/zigbee-geraete/7545-neo-zigbee-bodensensor-fuer-temperaturluftfeuchtigkeit-solarpanel.html?srsltid=AfmBOoqLPWzdaSpU905uOgpHTuNh7nY_1kWTwW0O874pl6PV6dM_Zeyk
 14,79 |A Zigbee adapter (  https://www.zigbee2mqtt.io/guide/adapters/  (https://de.aliexpress.com/item/1005003393047763.html?gatewayAdapt=glo2deu
 16,90 |Antenne ( https://www.amazon.de/USB-Sick-zigbee2mqtt-ioBroker-openHAB-Firmware/dp/B0887J2M2X
-96,90 |2x Raspberry Pi (  https://www.berrybase.de/raspberry-pi-5-8gb-ram
+96,90 |Raspberry Pi (  https://www.berrybase.de/raspberry-pi-5-8gb-ram
 24,90 |Wetterfeste Box ( https://www.amazon.de/RSE-Wasserdichter-Verteilerkasten-Steckdosenkasten-200x300x130mm/dp/B0F6NYBDQ6/ref=sr_1_32?__mk_de_DE=ÅMÅŽÕÑ&crid=143PHQTFMKH99&dib=eyJ2IjoiMSJ9.uHyimDNJ7UsAjpY3ZN8v3PrCba6x1xhQVeP_YNwGNDZrqFsTf2a5c3sq8i5XXpJPhdOK-xmbf251wbhxRjNgw-V_eS113REJmsNg2jipczLyzEauwlIR1AIg6dieyeq3LPZRN7UiNElVEhfPI2Ohhdqx6d8DzKu4R1wMDYoVTQPDalWjJfbUXCC01EDJHOns4kGV3A6-05fLWOpA-_NxbqQgrqplTmiOwgwzTwJL-InIrlDIh4bY3JCldcyhF2VwvQA67vUTEZysYcdSdcDt23m-AOzK9IRONceQdSQk6Qs.eHEUmuZj21mfXOSPcP9fBptuOXREmOXBLBcrqbYDe8I&dib_tag=se&keywords=strombox%2Baußenbereich%2Bschloss%2Bwasserdicht&qid=1764531760&sprefix=strombox%2Baußenbereich%2Bschloss%2Bwasserdicht%2Caps%2C277&sr=8-32&th=1
    / ( https://www.reichelt.de/de/de/shop/produkt/wetterfeste_aussen-_elektronikbox-188597?PROVID=2788&gad_source=1&gad_campaignid=183379230&gbraid=0AAAAADwnxtb9OgP5zD0iu53MDIkmzPmvO&gclid=EAIaIQobChMIw4bvl9-MkQMVVZKDBx057xprEAQYBiABEgJXQ_D_BwE#closemodal
-3,99 |micro usb to usb C (  https://www.amazon.de/XGMATT-Ladekabel-Micro-B-Datenkabel-Samsung/dp/B0CQX9GY43/ref=sr_1_17?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2STH6K9I2V3J9&dib=eyJ2IjoiMSJ9.Gv23Y2AfgfQisJ2POeI7aN7uU5RuERT41eLia_auRglsArdBPCUJp5n8xyljv7ETPgR_8Nk6alxid8QCYEuuPg.rEhp59ak0h4mq-EXTG_I3-_yYAYbK4cUWdtZICLinNo&dib_tag=se&keywords=micro+usb+to+usb+C&qid=1764880637&sprefix=micro+usb+to+usb+c%2Caps%2C442&sr=8-17&xpid=rec4puuVe6qbQ
-98,10 |Display 2x(  https://www.seeedstudio.com/reTerminal-E1002-p-6533.html
+3,99 |micro usb to usb C ( beim Rasberry )
+98,10 |Display (  https://www.seeedstudio.com/reTerminal-E1002-p-6533.html
 38,99 |Wasser verteiler (  https://www.amazon.de/Gartenbewässerungstimer-integriertem-Turbinen-Wasserzähler-programmierbare-Bewässerungstimer/dp/B0D8FL4X11/ref=pd_rhf_se_s_ci_mcx_mr_hp_d_d_sccl_1_2/260-5836271-3815615?pd_rd_w=8kNhm&content-id=amzn1.sym.2d7b61cf-9987-4cb2-a8c5-cab1656ec3c0%3Aamzn1.symc.206c6295-3b43-4a2b-9d15-273ba17f7025&pf_rd_p=2d7b61cf-9987-4cb2-a8c5-cab1656ec3c0&pf_rd_r=Y3G3SMYYX1JG32PKVCPJ&pd_rd_wg=S0sDq&pd_rd_r=7e2f1ea0-7bae-4306-adea-013cce1c4aa7&pd_rd_i=B0D8FL4X11&th=1
 ~10 | Zweiendiger Wasseranschluss
 689 |Stadt Strom / PV [10J]( https://www.amazon.de/dp/B0FZL49DLV?_encoding=UTF8&th=1
-4,49 |Wassersprenkler  10x( https://www.hornbach.de/p/gardena-micro-drip-system-spruehduese-360-grad-5-stk/10603000/
-3,99 | T Stück 10x( https://www.hornbach.de/p/gardena-micro-drip-system-spruehduese-360-grad-5-stk/10603000/
+4,49 |Wassersprenkler  2x( https://www.hornbach.de/p/gardena-micro-drip-system-spruehduese-360-grad-5-stk/10603000/
+3,99 | T Stück 2x( https://www.hornbach.de/p/gardena-micro-drip-system-spruehduese-360-grad-5-stk/10603000/
 
-Gesamt 1367,82€ / 678,82€
+
+Rohrverlegen: 
+https://www.my-hammer.de/sanitaer/preisradar/was-kostet-wasserleitung-verlegen
+
+
+Gesamt:
 Druck aus der Stadtleitung: 2-8 bar
-https://www.druckverlust.de/Online-Rechner/dp.php 7 bar
+
 
 
 
